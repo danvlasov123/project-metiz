@@ -1,0 +1,30 @@
+{
+  "name": "brock",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
+    "axios": "^0.24.0",
+    "fragment": "^0.3.0",
+    "react": "^17.0.0",
+    "react-accessible-accordion": "^4.0.0",
+    "react-dom": "^17.0.0",
+    "react-iframe": "^1.8.0",
+    "react-input-number": "^5.0.19",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^5.3.0",
+    "react-select": "^5.2.1",
+    "react-yandex-maps": "^4.6.0",
+    "simplebar-react": "^2.3.6",
+    "swiper": "^7.0.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "sass": "^1.43.3",
+    "vite": "^2.6.4"
+  }
+}
